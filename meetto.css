@@ -1,6 +1,8 @@
 .main {
   background-image:url('images/background.png');
   height:300px;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 
 .categories {
