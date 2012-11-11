@@ -1,0 +1,16 @@
+.main {
+  background-image:url('images/background.png');
+  height:300px;
+}
+
+.categories {
+  height: 400px;
+  overflow:auto;
+}
+
+.centered {
+  display: block;
+  width=70%;
+  margin-left: auto;
+  margin-right: auto;
+}
