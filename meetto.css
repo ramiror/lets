@@ -11,6 +11,7 @@
 }
 
 .centered {
+  clear:both;
   display: block;
   width=70%;
   margin-left: auto;
